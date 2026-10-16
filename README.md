@@ -109,7 +109,7 @@ Both scripts are dependency-free (raw sockets).
 
 ## Credit
 
-Discovered by `<your-handle>`. CVE requested (reference pending).
+Discovered by `Walnut1337`. CVE requested (reference pending).
 
 ## Timeline
 
